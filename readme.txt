@@ -1,10 +1,10 @@
-To run the minimal part of the assignment, for making the trends of global warming apparent by producing music and sonification of grayscale images, kindly run the prgram GlobalWarming.py and imageSonification.py from the JEM editor.
+For making the trends of global warming apparent by producing music and sonification of grayscale images, kindly run the prgram GlobalWarming.py and imageSonification.py from the JEM editor.
 
 To display the graph for the same, please follow the menu displayed after running MainClass.py.
 
 To run the other sections of the program, execute the class MainClass.py from the terminal. A list of options would be displayed and according to the requirement, the program can be further executed.
 
-For running the third part of the Good section, once the program is executed from the terminal, please run the file textSonification.py from the JEM editor. This would produce the music of the text.
+Please run the file textSonification.py from the JEM editor. This would produce the music of the text.
 
 In specifying the path, I hav given \ (backslash) since in Windows it was accepting that. Maybe for Mac, the slash would need to be changed to forward slash. This change would occur in the file InteractionRetreival.py and textSonification.py.
 
